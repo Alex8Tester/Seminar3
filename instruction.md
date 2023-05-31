@@ -10,6 +10,8 @@
 
 *git commit -m "yourcomment"* - commited your changes and add comment  
 
+*git log* - see log file git to your changes
+
     1 Numberic text
     2 Next text
     3 Last text 
