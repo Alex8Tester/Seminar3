@@ -9,3 +9,7 @@
     1 Numberic text
     2 Next text
     3 Last text 
+
+* First text
+* Second text
+* Last text 
