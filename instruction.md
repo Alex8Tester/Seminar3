@@ -2,5 +2,6 @@
 
 ## First command in this text
 
-*coursive text* - some coursive text
+*git init* - some coursive text
 
+*git status* - get information on current status
