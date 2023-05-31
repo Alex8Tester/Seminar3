@@ -5,3 +5,7 @@
 *git init* - initialize local repository
 
 *git status* - get information on current status
+
+    1 Numberic text
+    2 Next text
+    3 Last text 
