@@ -8,7 +8,7 @@
 
 *git add "filename.txt"* - added your file to control version
 
-
+*git commit -m "yourcomment"* - commited your changes and add comment  
 
     1 Numberic text
     2 Next text
