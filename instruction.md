@@ -6,6 +6,10 @@
 
 *git status* - get information on current status
 
+*git add "filename.txt"* - added your file to control version
+
+
+
     1 Numberic text
     2 Next text
     3 Last text 
