@@ -1,2 +1,2 @@
-# hello World
+# New commands first seminar        
 
