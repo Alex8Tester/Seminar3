@@ -2,5 +2,5 @@
 
 ## First command in this text
 
-*coursive text*
+*coursive text* - some coursive text
 
