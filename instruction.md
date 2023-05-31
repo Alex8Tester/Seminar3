@@ -12,6 +12,10 @@
 
 *git log* - see log file git to your changes
 
+*git checkout* - switch in branch/version file
+
+*git diff* - see to difference see to difference in your files/versions/commits
+
     1 Numberic text
     2 Next text
     3 Last text 
