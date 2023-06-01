@@ -51,7 +51,12 @@ _this example add GIF file (local storage)_
 
 ## Seminar 3 
 
-Boy
+    Boy
 
-        The
-            Next
+    The
+    
+    Next
+    
+    Door
+
+![Gachi-memes](https://media.tenor.com/-yFFkOGG9lMAAAAM/gachi-%D0%B6%D0%BC%D0%B8%D0%BB%D1%8C.gif)
