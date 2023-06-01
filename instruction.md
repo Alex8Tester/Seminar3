@@ -26,3 +26,5 @@ _this example add GIF file (local storage)_
 
 ## Seminar 2
 
+## Seminar 3 
+
