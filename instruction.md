@@ -2,6 +2,8 @@
 
 ## First command in this text
 
+## Lesson 1
+
 *git init* - initialize local repository
 
 *git status* - get information on current status
@@ -21,4 +23,6 @@
 _this example add GIF file (local storage)_
 
 ![Local image](jack-sparrow-welcome.gif)
+
+## Seminar 2
 
