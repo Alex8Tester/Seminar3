@@ -51,3 +51,4 @@ _this example add GIF file (local storage)_
 
 ## Seminar 3 
 
+Conflict 2 - merge text changes 1 and text changes on master branch
