@@ -60,3 +60,5 @@ _this example add GIF file (local storage)_
     Door
 
 ![Gachi-memes](https://media.tenor.com/-yFFkOGG9lMAAAAM/gachi-%D0%B6%D0%BC%D0%B8%D0%BB%D1%8C.gif)
+
+End DZ
