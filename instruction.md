@@ -52,3 +52,5 @@ _this example add GIF file (local storage)_
 ## Seminar 3 
 
 Boy
+
+        The
