@@ -50,5 +50,3 @@ _this example add GIF file (local storage)_
 
 
 ## Seminar 3 
-
-conflict 2 - add change text on seminar 2
