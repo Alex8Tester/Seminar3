@@ -45,7 +45,7 @@ _this example add GIF file (local storage)_
 *git branch -d <название>* - удалить ветку
 
 ------
-'git switch 'branch_name' - переключиться на другую ветку/коммит
+'*git switch 'branch_name'* - переключиться на другую ветку/коммит
 
 
 
