@@ -25,3 +25,8 @@
 * Last text 
 
 ![Illustration on this project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO81J1TgiVuNcvhkhgz8UuEeCjXm-NHdaopBW2kTcs&s)
+
+_this example add GIF file (local storage)_
+
+![Local image](jack-sparrow-welcome.gif)
+
