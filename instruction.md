@@ -16,14 +16,6 @@
 
 *git diff* - see to difference see to difference in your files/versions/commits
 
-    1 Numberic text
-    2 Next text
-    3 Last text 
-
-* First text
-* Second text
-* Last text 
-
 ![Illustration on this project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO81J1TgiVuNcvhkhgz8UuEeCjXm-NHdaopBW2kTcs&s)
 
 _this example add GIF file (local storage)_
