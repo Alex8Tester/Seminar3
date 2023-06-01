@@ -16,7 +16,7 @@
 
 *git checkout* - switch in branch/version file
 
-*git diff* - see to difference see to difference in your files/versions/commits
+*git diff* - see to difference in your files/versions/commits
 
 ![Illustration on this project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO81J1TgiVuNcvhkhgz8UuEeCjXm-NHdaopBW2kTcs&s)
 
