@@ -2,7 +2,7 @@
 
 ## First command in this text
 
-## Lesson 1
+## Seminar 1
 
 *git init* - initialize local repository
 
